@@ -2,14 +2,13 @@
 layout: page
 title: About
 permalink: /about/
+published: true
 ---
 
-Some information about you!
+Computer science student at Université de Montréal, passionate about cybersecurity
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
-
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[antoine.gauthier-drapeau@umontreal.ca](antoine.gauthier-drapeau@umontreal.ca)
