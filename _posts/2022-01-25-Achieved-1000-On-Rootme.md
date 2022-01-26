@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 ## Achieved 1000 points on rootme.org
 
