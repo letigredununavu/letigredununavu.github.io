@@ -1,7 +1,7 @@
 ---
 published: false
 ---
-was the only participant. I manage to end the CTF at the 14th place. Here are some challenges and solutions I found interesting.\ 
+This march 21 to march 23 was Yogosha's GISEC CTF 2022 in which I participated. This was a team competition but I decided to participate solo. My team was PsyDucks in which I (letigredununavu) was the only participant. I manage to end the CTF at the 14th place. Here are some challenges and solutions I found interesting.\
 
 ## WEB
 
