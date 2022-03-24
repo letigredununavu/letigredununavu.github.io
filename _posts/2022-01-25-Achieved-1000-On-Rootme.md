@@ -7,6 +7,5 @@ Been going through the challenges of this site since the start of january, I too
 Here I will showcase some challenges I found really interesting
 
 ---
-1.
 
 Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
