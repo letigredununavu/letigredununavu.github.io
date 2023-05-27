@@ -5,10 +5,10 @@ permalink: /about/
 published: true
 ---
 
-Computer science student at Université de Montréal, passionate about cybersecurity
+Cybersecurity Analyst in Montreal
 
 ### More Information
 
 ### Contact me
 
-[antoine.gauthier-drapeau@umontreal.ca](antoine.gauthier-drapeau@umontreal.ca)
+[letigredununavu@proton.me](letigredununavu@proton.me)
